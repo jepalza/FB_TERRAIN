@@ -1,5 +1,5 @@
 # FB_TERRAIN
-FreeBasic contruccion de terrenos 3D modo alambre
+FreeBasic construcción de terrenos 3D modo alambre
 
 
 Viejo código encontrado en un CDROM de programas libres de los años 90, convertido de C a FreeBasic.
